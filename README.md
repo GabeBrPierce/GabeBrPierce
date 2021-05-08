@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GabeBrPierce
+- 👀 I’m interested in C#, but all things code excite me!
+- 🌱 I’m currently learning Unity, and relearning SQL.
+- 💞️ I’m looking to collaborate on anything, I would be honered to be a part of something!
+- 📫 How to reach me gabebrpierce@gmail.com
